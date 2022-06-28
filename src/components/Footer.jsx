@@ -5,6 +5,9 @@ function Footer() {
         <div className="container-fluid footer_container pt-5">
 
             <div className="container mt-auto ">
+                <div>
+                    <img src="https://res.cloudinary.com/shree8469175299/image/upload/c_thumb,g_face,w_319/v1655525956/IMG-20220511-WA0012_oqigxj.jpg" alt="" />
+                </div>
                 <div className=' row '>
                     <div className="onecontainer pb-5 col-lg-6 col-12">
                         <h1 className='text-start'>About us</h1>
