@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/alter-client/static/css/main.fccd7a29.css",
+    "main.css": "/alter-client/static/css/main.88042361.css",
     "main.js": "/alter-client/static/js/main.39b22fe3.js",
     "static/media/qrcode.jpeg": "/alter-client/static/media/qrcode.3f38ba7906e753847302.jpeg",
     "index.html": "/alter-client/index.html",
-    "main.fccd7a29.css.map": "/alter-client/static/css/main.fccd7a29.css.map",
+    "main.88042361.css.map": "/alter-client/static/css/main.88042361.css.map",
     "main.39b22fe3.js.map": "/alter-client/static/js/main.39b22fe3.js.map"
   },
   "entrypoints": [
-    "static/css/main.fccd7a29.css",
+    "static/css/main.88042361.css",
     "static/js/main.39b22fe3.js"
   ]
 }
